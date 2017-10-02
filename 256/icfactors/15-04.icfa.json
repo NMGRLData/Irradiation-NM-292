@@ -6,10 +6,61 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
-        "value": 1.0
+        "error": 0.0033712937769055135, 
+        "fit": "Linear", 
+        "references": [
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6118", 
+                "uuid": "b1a9297f-9aca-4580-9316-6bf85a95b6c3"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6119", 
+                "uuid": "b5ce06aa-36fa-491a-9a79-5eeee34553ce"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6120", 
+                "uuid": "2824aeaf-3723-426b-89b2-3efb3fb064ae"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6121", 
+                "uuid": "68750071-8932-4200-981c-36474eae250b"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6122", 
+                "uuid": "fdea38ec-d722-46f6-9ee6-21346d65c7cb"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6123", 
+                "uuid": "e107adb2-60b5-4f4b-97a1-b8e3721ae622"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6124", 
+                "uuid": "b2eca317-da0a-4c39-bb4b-b0742ae04d4d"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6125", 
+                "uuid": "7f948233-1ad1-4fa7-b23c-245c6306f4d7"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6126", 
+                "uuid": "c5c99f9e-0e30-4276-8a41-f2d3c8d92907"
+            }, 
+            {
+                "exclude": "omit", 
+                "record_id": "a-01-J-6127", 
+                "uuid": "b09e066a-f729-45e2-971f-fa2656e135d8"
+            }
+        ], 
+        "value": 1.0113884394144474
     }, 
     "H1": {
         "error": 1e-20, 
@@ -34,5 +85,6 @@
         "fit": "default", 
         "references": [], 
         "value": 1.0
-    }
+    }, 
+    "reviewed": true
 }
