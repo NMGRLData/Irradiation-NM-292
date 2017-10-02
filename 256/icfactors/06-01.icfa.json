@@ -6,10 +6,56 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 1e-20, 
-        "fit": "default", 
-        "references": [], 
-        "value": 1.0
+        "error": 0.00406910901510808, 
+        "fit": "Linear", 
+        "references": [
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6113", 
+                "uuid": "e54c28c0-29db-4227-8a37-e62344a4d728"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6114", 
+                "uuid": "e8985afa-5676-4ea4-a05c-1efde03e9003"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6115", 
+                "uuid": "e7731ff5-e473-47c6-9c4b-9a1fc6b1755b"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6116", 
+                "uuid": "fedb6e7d-23f1-44af-90a6-0cdb72aefa00"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6117", 
+                "uuid": "fd29c6fe-6cd4-4cae-8146-d50755aec693"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6118", 
+                "uuid": "b1a9297f-9aca-4580-9316-6bf85a95b6c3"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6119", 
+                "uuid": "b5ce06aa-36fa-491a-9a79-5eeee34553ce"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6120", 
+                "uuid": "2824aeaf-3723-426b-89b2-3efb3fb064ae"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-6121", 
+                "uuid": "68750071-8932-4200-981c-36474eae250b"
+            }
+        ], 
+        "value": 1.0108448618305081
     }, 
     "H1": {
         "error": 1e-20, 
@@ -34,5 +80,6 @@
         "fit": "default", 
         "references": [], 
         "value": 1.0
-    }
+    }, 
+    "reviewed": true
 }
